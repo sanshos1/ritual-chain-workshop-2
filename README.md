@@ -1,5 +1,7 @@
 # Ritual Predict
 
+> **sanshos1 — Flexible Exit Edition.** This fork adds partial stake withdrawals before market close, six focused local tests, a local Ritual-system deployment workflow, and the interactive **Ritual Exit Desk** frontend in `web/`. See [BUILD_LOG.md](BUILD_LOG.md) for the verification record.
+
 A self-resolving binary prediction market on [Ritual Chain](https://docs.ritualfoundation.org).
 
 Create a market like _"Will ETH/USD be at least $4,000 when this market resolves?"_, stake native
